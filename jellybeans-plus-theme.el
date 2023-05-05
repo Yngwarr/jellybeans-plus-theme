@@ -26,7 +26,8 @@
       (jellybeans-plus-grey-3 "#1c1c1c")
       (jellybeans-plus-grey-4 "#363636")
       (jellybeans-plus-grey-5 "#444444")
-      (jellybeans-plus-grey-6 "#605958")
+      ;(jellybeans-plus-grey-6 "#605958")
+      (jellybeans-plus-grey-6 "#554f4e")
       (jellybeans-plus-orange-0 "#e8e8d3") ;; this is actually yellow-ish
       (jellybeans-plus-purple-0 "#90BFDA")
       (jellybeans-plus-purple-1 "#474e90")
